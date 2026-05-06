@@ -13,7 +13,6 @@ This tool was developed to visually model the theoretical maximum throughput of 
 *   **Dynamic Scaling:** The coordinate system and plotted spline dynamically scale based on window resizing and parameter bounds.
 *   **Interactive Inspection:** Hover over the graph to inspect exact values at specific points along the curve.
 *   **Memory Safe:** Strict manual memory management ensures no leaks during runtime or upon exit.
-*   **Cross-Platform Ready:** Designed to compile cleanly on Linux (including WSL) and macOS.
 
 ## Mathematical Model
 
