@@ -2,6 +2,9 @@
 
 A real-time visualization tool written in pure C for modeling and profiling system throughput (e.g., pipeline stages in computer architecture).
 
+## Demo
+<video src="https://github.com/user-attachments/assets/0d8fcc47-1e5c-4fca-98ba-859211c0659b" autoplay loop muted playsinline width="100%"></video>
+
 ## Overview
 
 This tool was developed to visually model the theoretical maximum throughput of a pipelined system based on varying parameters such as base time, overhead, and branch penalties. It utilizes an immediate-mode GUI to allow for live parameter tuning, instantly reflecting changes on the graphed function.
